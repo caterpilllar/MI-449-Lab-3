@@ -48,3 +48,12 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+p{
+    color: #542344;
+    font-style: italic;
+}
+
+h2{
+    color: #294C60;
+}

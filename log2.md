@@ -4,7 +4,8 @@ title: About
 ---
 
 # **Log 2**
-#### Date: 3-15-78
-#### Location: Edge of the Solar System, Milky Way Galaxy
-## i am writing a blog here about things in space. i dont know how to to make normal page text in markdown. Our next destination is the place we are going to. to day we saw a space rock. it was rly big and cool and sciency.
+Date: 3-15-78
+<br>
+Location: Pluto's orbit, Solar System, Milky Way Galaxy
 
+## Hello from the edge of the Solar System! Our next destination is the Carina–Sagittarius spiral arm. We have been making good progress and everything has been going well. After we leave the Solar System we will be  the farthest away from Earth anyone has ever gone. I am very excited!

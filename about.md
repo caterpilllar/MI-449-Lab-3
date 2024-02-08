@@ -4,4 +4,4 @@ title: About
 ---
 
 # **About**
-## this is an about page
+## I am an astronaut on a space mission to explore the Milky Way and this is my weblog site about my travels.
